@@ -15,7 +15,7 @@ typedef struct Node
 typedef enum Status
 {
 	SUCCESS,ERROR
-}Satuts;
+}Status;
 
 		//º¯ÊıÉùÃ÷ 
 ptr_Node creat(int *arr, int n);
